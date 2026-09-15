@@ -1,0 +1,6 @@
+{
+  "name": "FumiSalta - Software y Certificación para Fumigadores",
+  "description": "Plataforma provincial de gestión para fumigadores de Salta con suscripciones mensual, semestral y anual para emitir certificados oficiales con código QR y bases de datos privadas de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
