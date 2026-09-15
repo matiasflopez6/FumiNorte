@@ -8,6 +8,7 @@ import { SaltaNavbar } from './components/salta/SaltaNavbar';
 import { SaltaPlansSection } from './components/salta/SaltaPlansSection';
 import { SaltaNormativeSection } from './components/salta/SaltaNormativeSection';
 import { SaltaFeaturesSection } from './components/salta/SaltaFeaturesSection';
+import { SaltaFaqSection } from './components/salta/SaltaFaqSection';
 import { SaltaFooter } from './components/salta/SaltaFooter';
 import { LayoutDashboard, Shield, AlertCircle } from 'lucide-react';
 
@@ -142,6 +143,9 @@ export default function App() {
 
             {/* Software Features for Salta Fumigadores */}
             <SaltaFeaturesSection />
+
+            {/* SEO Rich FAQ Section with Schema.org markup */}
+            <SaltaFaqSection />
           </main>
 
           {/* Official Footer */}

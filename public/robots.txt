@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow internal or non-public administrative paths if any
+Disallow: /api/
+Disallow: /dist/
+
+# Host and Sitemap
+Host: https://fuminorte-salta.com.ar
+Sitemap: https://fuminorte-salta.com.ar/sitemap.xml

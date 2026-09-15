@@ -34,6 +34,9 @@ export const SaltaNavbar: React.FC<SaltaNavbarProps> = ({
             <a href="#ventajas" className="hover:text-emerald-700 transition-colors whitespace-nowrap">
               Beneficios
             </a>
+            <a href="#preguntas-frecuentes" className="hover:text-emerald-700 transition-colors whitespace-nowrap">
+              Preguntas
+            </a>
           </nav>
 
           {currentFumigador ? (

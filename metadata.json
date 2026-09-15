@@ -1,6 +1,6 @@
 {
-  "name": "FumiSalta - Software y Certificación para Fumigadores",
-  "description": "Plataforma provincial de gestión para fumigadores de Salta con suscripciones mensual, semestral y anual para emitir certificados oficiales con código QR y bases de datos privadas de clientes.",
+  "name": "FumiNorte | Software de Certificación y Control de Plagas en Salta",
+  "description": "Software y plataforma oficial para empresas de fumigación y control de plagas en Salta. Emisión de certificados con código QR reglamentarios ante Bromatología de la Municipalidad de Salta, suscripciones y CRM para fumigadores.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
